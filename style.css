@@ -1,0 +1,40 @@
+.search-b{
+    position: relative;
+    left: 15%;
+    top: 15%;
+    width: 115%;
+    
+}
+
+.margin-top{
+    position: absolute;
+    z-index: 1;
+    margin-top: 5px !important;
+    /* padding-top: 20px !important; */
+}
+.card-bord{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    padding: 5%;
+}
+.card-bord img{
+    padding: 5px;
+}
+.carousel-my img {
+    width: 936px;
+    height: 516px;
+}
+.carousel-caption {
+    position: absolute;
+    right: 50%;
+    bottom: 15.25re;
+    left: 25%;
+    padding-bottom: 6.25rem;
+    color: #fff;
+    text-align: center;
+
+    }
+
+.fonts {
+    font-size: 50px !important;
+}
